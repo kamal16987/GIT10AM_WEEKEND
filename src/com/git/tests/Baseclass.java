@@ -7,5 +7,13 @@ public class Baseclass {
 		System.out.println("DAY 1 class");
 
 	}
+	
+	public void selectAValueFromdropdown() {
+		
+	}
+	
+	public void enterAValueInTextBox() {
+
+	}
 
 }
