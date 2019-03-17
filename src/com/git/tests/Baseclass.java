@@ -8,8 +8,12 @@ public class Baseclass {
 
 	}
 	
-	public void enterAValueInTextBox() {
+	public void selectAValueFromdropdown() {
 		
+	}
+	
+	public void enterAValueInTextBox() {
+
 	}
 
 }
