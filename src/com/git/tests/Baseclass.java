@@ -11,5 +11,9 @@ public class Baseclass {
 	public void selectAValueFromdropdown() {
 		
 	}
+	
+	public void enterAValueInTextBox() {
+
+	}
 
 }
