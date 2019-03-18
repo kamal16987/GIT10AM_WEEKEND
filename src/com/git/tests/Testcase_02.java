@@ -10,7 +10,7 @@ public class Testcase_02
 
 	public static void main(String[] args) 
 	{
-
+		/* Created by RAJ */
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\RAJ\\eclipse-workspace\\OrangePage\\driver\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("http://demo.guru99.com/test/guru99home/");
