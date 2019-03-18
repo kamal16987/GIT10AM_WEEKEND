@@ -22,10 +22,6 @@ public class Baseclass {
 		ps.sendKeys("1234578");
 	}
 	
-	public void sendKeys(WebDriver driver) {
-		
-				
-	}
 	
 	public void enterAValueInTextBox() {
 
