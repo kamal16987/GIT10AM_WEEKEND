@@ -6,5 +6,13 @@ public class TestCase_04 {
 		// TODO Auto-generated method stub
 
 	}
+	
+	/***
+	 * Rae29
+	 */
+    public void Sum() {
+		System.out.println("Sum");
 
+	}
+	
 }
