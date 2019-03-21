@@ -24,5 +24,13 @@ public class TestCase_04 {
 		ac.dragAndDrop(src, desc).perform();
 		
 	}
+	
+	/***
+	 * Rae29
+	 */
+    public void Sum() {
+		System.out.println("Sum");
 
+	}
+	
 }
