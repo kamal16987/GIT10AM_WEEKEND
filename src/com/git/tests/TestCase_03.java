@@ -8,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class TestCase_03 {
 
 	public static void main(String[] args) {
+		//* Modified By Rae*\\
 
 		 System.setProperty("webdriver.chrome.driver","C:\\Users\\Madhav\\eclipse-workspace\\GIT10AM_WEEKEND\\driver\\chromedriver.exe");
 		 WebDriver driver=new ChromeDriver();
@@ -16,6 +17,9 @@ public class TestCase_03 {
 		 txtuser.sendKeys("rekha");
 		 WebElement txtpass =driver.findElement(By.id("pass"));
 		 txtpass.sendKeys("raeu2o2");
+		 WebElement btnlogin =driver.findElement(By.id("u_0_2"));
+		 btnlogin.click();
+		 driver.close();
 
 	}
 
