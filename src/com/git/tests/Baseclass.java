@@ -34,5 +34,11 @@ public class Baseclass {
 	public void enterAValueInTextBox() {
 
 	}
+	
+	// ************Created by Arunprakash**********
+	public void arunFunction() {
+		System.out.println("Arun's Function");
+	}
+	
 
 }
