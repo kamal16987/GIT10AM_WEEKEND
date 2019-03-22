@@ -22,6 +22,14 @@ public class Baseclass {
 		ps.sendKeys("1234578");
 	}
 	
+	/*
+	 * Created by John
+	 */
+	
+	public void clickSubmit() {
+		
+	}
+	
 	
 	public void enterAValueInTextBox() {
 
